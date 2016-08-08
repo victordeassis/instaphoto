@@ -1,0 +1,36 @@
+body {
+	background-color: #FCFCFC;
+}
+
+nav {
+	background-color: #FFF;
+}
+
+.logo {
+	/*margin-top: 15%;*/
+	width: 50%
+}
+
+.black-color {
+	color: black;
+}
+
+.side-bar-icon {
+
+}
+
+.nav-bar-icon {
+
+}
+
+.first-card {
+
+	margin-top: 2%;
+
+}
+
+.center-div
+{
+	/*This code center the div*/
+    /*margin: 0 auto;*/
+}
